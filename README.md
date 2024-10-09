@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hesham Abdelnasser</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">Junior Frontend and Cross-Platform Mobile Developer
+ Passionate and detail-oriented Junior Developer with 1 year of experience in building dynamic and responsive web and 
+mobile applications. Skilled in React, React Native, Angular, Vue3 and Next.js, with a strong focus on creating user-friendly 
+applications that seamlessly blend design with functionality. Adept at turning complex problems into intuitive and 
+innovative solutions while maintaining performance and scalability.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
